@@ -1,0 +1,9 @@
+Chapter 4
+  In this chapter，it mainly talks about QA and V&V. In QA section, it tells us how to 
+defct handling and resolution. After finding defect, we know how to deal with the defects.
+Then we have defect measurement and analysis. 
+  During the lifecyle of a software, just like the waterfall model, we will do QA thruogh
+the whole process. In requirement, design and coding, we mainlu foucus on defect prevention.
+In other parts, we foucus on defect removal and defect containment. 
+  V&V in the V-model, testing is operating along with the implementation. At the end of the
+chapter, it compares QA activity and V&V view.
